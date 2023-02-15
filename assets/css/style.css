@@ -1,0 +1,16 @@
+body {
+  background: var(--bs-primary);
+}
+
+.footer {
+  background: var(--bs-dark);
+  color: var(--bs-white);
+  text-align: center;
+  padding: 0;
+}
+.footer p {
+  padding: 20px;
+  margin: 0;
+}
+
+/*# sourceMappingURL=style.css.map */

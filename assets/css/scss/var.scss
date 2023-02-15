@@ -1,0 +1,28 @@
+// Variable overrides first
+$theme-colors: (
+  "primary": #ff8c8c,
+  "secondary": yellow,
+  "success": green,
+  "info": pink,
+  "warning": grey,
+  "danger": red,
+  "light": lightgrey,
+  "dark": black,
+);
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1200px,
+  xxl: 1440px,
+);
+
+$container-max-widths: (
+  sm: 576px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1200px,
+  xxl: 1440px,
+);

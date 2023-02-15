@@ -1,0 +1,13 @@
+body {
+  background: var(--bs-primary);
+}
+.footer {
+  background: var(--bs-dark);
+  color: var(--bs-white);
+  text-align: center;
+  padding: 0;
+  p {
+    padding: 20px;
+    margin: 0;
+  }
+}
