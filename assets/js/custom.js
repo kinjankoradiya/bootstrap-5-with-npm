@@ -1,7 +1,5 @@
 // Add new js functions here -----------------------------------------------------------------
-window.onscroll = function (e) {
-  console.log(e.scrollTop);
-};
+AOS.init({ once: true, offset: 100, easing: "ease-out-sine", duration: 800 });
 
 // --------------------------------------------------------------------------------------------
 // Don't add anything below this --------------------------------------------------------------
